@@ -73,7 +73,7 @@ Actualmente estoy enfocado en convertirme en desarrollador, creando proyectos re
 <h2>📫 Contacto</h2>
 
 <p>
-📧 Email: tuemail@gmail.com <br>
+📧 Email: ppadillayd@gmail.com <br>
 💼 LinkedIn: Tu perfil
 </p>
 
