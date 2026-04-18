@@ -38,7 +38,7 @@ Actualmente estoy enfocado en convertirme en desarrollador, creando proyectos re
 </td>
 
 <td width="50%">
-<h3>📋 CRUD de Contactos</h3>
+<h3>📋 	CRM</h3>
 <p>Aplicación web para gestión de contactos.</p>
 </td>
 </tr>
