@@ -74,7 +74,7 @@ Actualmente estoy enfocado en convertirme en desarrollador, creando proyectos re
 
 <p>
 📧 Email: ppadillayd@gmail.com <br>
-💼 LinkedIn: Tu perfil
+💼 LinkedIn: https://www.linkedin.com/in/paul-padilla-6188bb2b0/
 </p>
 
 ---
