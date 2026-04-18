@@ -33,7 +33,7 @@ Actualmente estoy enfocado en convertirme en desarrollador, creando proyectos re
 <table>
 <tr>
 <td width="50%">
-<h3>📦 Sistema de Inventario</h3>
+<h3>📦 Pagina web de Ropa de Mascotas</h3>
 <p>Gestión de activos, usuarios y ubicaciones.</p>
 </td>
 
