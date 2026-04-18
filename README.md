@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>💻 Help Desk | Futuro Desarrollador</b><br>
-  📍 Ecuador
+  Quito📍 Ecuador
 </p>
 
 <p align="center">
